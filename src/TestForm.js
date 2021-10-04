@@ -50,7 +50,7 @@ const TestForm = () => {
   return (
     <div className="container">
       <div className="form-container">
-        <p>Register</p>
+        <p>Register Here</p>
       </div>
       <form className="fields" onSubmit={onSubmit}>
         <div className="Name">
